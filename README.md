@@ -1,4 +1,7 @@
-# League of Legends wrapper for Laravel 4
+League of Legends wrapper for Laravel 4
+===
+
+# [DEPRECATED] This repo is no longer maintained. Migrate to [LeaguePHP/LeagueWrap](https://github.com/LeaguePHP/LeagueWrap).
 
 lolapi-4-laravel is a simple laravel 4 service provider (wrapper) for [paquettg/leaguewrap](https://github.com/paquettg/leaguewrap)
 which aims to assist application development that depends on the League of Legends API easily.
