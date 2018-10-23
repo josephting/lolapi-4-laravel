@@ -1,5 +1,5 @@
 League of Legends wrapper for Laravel 4
-===
+=======================================
 
 # [DEPRECATED] This repo is no longer maintained. Migrate to [LeaguePHP/LeagueWrap](https://github.com/LeaguePHP/LeagueWrap).
 
